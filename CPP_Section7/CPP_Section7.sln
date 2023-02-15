@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Section7", "CPP_Section7.vcxproj", "{9E3C4ACD-F599-49B7-81D2-A67A2A79AF55}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arrayIntro", "CPP_Section7.vcxproj", "{9E3C4ACD-F599-49B7-81D2-A67A2A79AF55}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiDimentionalArrays", "..\multiDimentionalArrays\multiDimentionalArrays.vcxproj", "{514F9098-FE07-4D7F-B59A-5593C5A55023}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vectors", "..\Vectors\Vectors.vcxproj", "{9617E6C8-0325-4539-A5B8-CFA074415A02}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_challenge", "..\Section7_challenge\Section7_challenge.vcxproj", "{F8C69AEB-9E59-4F14-9053-805E5F17A391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{9617E6C8-0325-4539-A5B8-CFA074415A02}.Release|x64.Build.0 = Release|x64
 		{9617E6C8-0325-4539-A5B8-CFA074415A02}.Release|x86.ActiveCfg = Release|Win32
 		{9617E6C8-0325-4539-A5B8-CFA074415A02}.Release|x86.Build.0 = Release|Win32
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Debug|x64.ActiveCfg = Debug|x64
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Debug|x64.Build.0 = Debug|x64
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Debug|x86.Build.0 = Debug|Win32
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Release|x64.ActiveCfg = Release|x64
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Release|x64.Build.0 = Release|x64
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Release|x86.ActiveCfg = Release|Win32
+		{F8C69AEB-9E59-4F14-9053-805E5F17A391}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
